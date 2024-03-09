@@ -1,0 +1,8 @@
+Database:
+  user: PGUSER
+  password: PGPASS
+  host: PG_HOST
+  port: PG_PORT
+  database: PG_DATABASE
+Server:
+  port: PORT
